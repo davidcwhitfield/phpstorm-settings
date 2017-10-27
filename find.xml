@@ -1,18 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*PaymentType*" />
     <recentFileMasks>
-      <mask>*j</mask>
-      <mask>*js</mask>
-      <mask>*purchaseorder*js</mask>
-      <mask>*purchaseorde*js</mask>
-      <mask>*purchaseord*js</mask>
-      <mask>*purchaseor*js</mask>
-      <mask>*purchaseo*js</mask>
-      <mask>*purchase*js</mask>
-      <mask>*purchas*js</mask>
       <mask>*purcha*js</mask>
       <mask>*purch*js</mask>
       <mask>*purc*js</mask>
@@ -27,13 +21,22 @@
       <mask>*AJA</mask>
       <mask>*AJ</mask>
       <mask>(</mask>
-      <mask>*</mask>
       <mask>*A</mask>
       <mask>*Aj</mask>
       <mask>*Aja</mask>
       <mask>*Ajaz</mask>
       <mask>*Ajax</mask>
       <mask>*Ajax*</mask>
+      <mask>*</mask>
+      <mask>*P</mask>
+      <mask>*Pay</mask>
+      <mask>*Paymen</mask>
+      <mask>*Payment</mask>
+      <mask>*PaymentT</mask>
+      <mask>*PaymentTy</mask>
+      <mask>*PaymentTyp</mask>
+      <mask>*PaymentType</mask>
+      <mask>*PaymentType*</mask>
     </recentFileMasks>
   </component>
 </application>
