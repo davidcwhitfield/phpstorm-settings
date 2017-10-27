@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ce5c9394-fcd3-40c2-87cd-040b25436fde" name="do-web-3.c--w.net" url="http://kgell.dev.do-web-3.c--w.net">
+        <fileTransfer host="do-web-3.c--w.net" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2822e449-7680-46ab-8e27-9d7d1096fcb4" name="kintsugi clothing" url="http://www.kintsugiclothing.co.uk">
+        <fileTransfer host="kintsugiclothing.co.uk" port="22" rootFolder="/var/www/kintsugi-clothing/holding" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="42c64492-9227-4ab7-b9e3-cd312ce296ac" name="Kintsugi" url="http://www.kintsugiclothing.co.uk">
+        <fileTransfer host="kintsugiclothing.co.uk" port="22" rootFolder="/var/www/kintsugi-clothing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

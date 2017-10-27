@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <recentFileMasks>
+      <mask>*j</mask>
+      <mask>*js</mask>
+      <mask>*purchaseorder*js</mask>
+      <mask>*purchaseorde*js</mask>
+      <mask>*purchaseord*js</mask>
+      <mask>*purchaseor*js</mask>
+      <mask>*purchaseo*js</mask>
+      <mask>*purchase*js</mask>
+      <mask>*purchas*js</mask>
+      <mask>*purcha*js</mask>
+      <mask>*purch*js</mask>
+      <mask>*purc*js</mask>
+      <mask>*pur*js</mask>
+      <mask>*pu*js</mask>
+      <mask>*p*js</mask>
+      <mask>**js</mask>
+      <mask>*o*js</mask>
+      <mask>*ord*js</mask>
+      <mask>*or*js</mask>
+      <mask>*AJAX</mask>
+      <mask>*AJA</mask>
+      <mask>*AJ</mask>
+      <mask>(</mask>
+      <mask>*</mask>
+      <mask>*A</mask>
+      <mask>*Aj</mask>
+      <mask>*Aja</mask>
+      <mask>*Ajaz</mask>
+      <mask>*Ajax</mask>
+      <mask>*Ajax*</mask>
+    </recentFileMasks>
+  </component>
+</application>
