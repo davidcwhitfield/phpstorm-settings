@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="BaseAjaxInvent*" />
     <recentFileMasks>
-      <mask>*purcha*js</mask>
-      <mask>*purch*js</mask>
-      <mask>*purc*js</mask>
-      <mask>*pur*js</mask>
-      <mask>*pu*js</mask>
-      <mask>*p*js</mask>
-      <mask>**js</mask>
       <mask>*o*js</mask>
       <mask>*ord*js</mask>
       <mask>*or*js</mask>
@@ -34,6 +28,13 @@
       <mask>*PaymentTyp</mask>
       <mask>*PaymentType</mask>
       <mask>*PaymentType*</mask>
+      <mask>BaseA</mask>
+      <mask>BaseAja</mask>
+      <mask>BaseAjaz</mask>
+      <mask>BaseAjax</mask>
+      <mask>BaseAjax*</mask>
+      <mask>BaseAjaxInven*</mask>
+      <mask>BaseAjaxInvent*</mask>
     </recentFileMasks>
   </component>
 </application>
