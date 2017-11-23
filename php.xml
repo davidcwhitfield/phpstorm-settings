@@ -4,11 +4,6 @@
       <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" timeout="8000" tool_path="$USER_HOME$/.config/composer/vendor/squizlabs/php_codesniffer/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="/usr/bin/php" id="a7c62527-316f-4d3f-a560-9c9acc78b4a2" name="PHP 7.0.19-1" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.0.19-1">
