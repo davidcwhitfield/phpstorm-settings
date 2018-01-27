@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="69e21457-69ec-44c1-ab9e-d5d79537c864" name="kitnsugiclothing.com" url="http://www.kintsugiclothing.com">
+        <fileTransfer host="kintsugiclothing.com" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
