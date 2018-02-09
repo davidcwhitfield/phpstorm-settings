@@ -4,20 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*o*js</mask>
-      <mask>*ord*js</mask>
-      <mask>*or*js</mask>
-      <mask>*AJAX</mask>
-      <mask>*AJA</mask>
-      <mask>*AJ</mask>
-      <mask>(</mask>
       <mask>*A</mask>
       <mask>*Aj</mask>
       <mask>*Aja</mask>
       <mask>*Ajaz</mask>
       <mask>*Ajax</mask>
       <mask>*Ajax*</mask>
-      <mask>*</mask>
       <mask>*P</mask>
       <mask>*Pay</mask>
       <mask>*Paymen</mask>
@@ -34,6 +26,14 @@
       <mask>BaseAjax*</mask>
       <mask>BaseAjaxInven*</mask>
       <mask>BaseAjaxInvent*</mask>
+      <mask>.js</mask>
+      <mask>.j</mask>
+      <mask>.</mask>
+      <mask>.tp</mask>
+      <mask>.tpl</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
