@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tpl" />
     <recentFileMasks>
-      <mask>*A</mask>
-      <mask>*Aj</mask>
-      <mask>*Aja</mask>
       <mask>*Ajaz</mask>
       <mask>*Ajax</mask>
       <mask>*Ajax*</mask>
@@ -32,8 +30,11 @@
       <mask>.tp</mask>
       <mask>.tpl</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.tp</mask>
+      <mask>*.tpl</mask>
     </recentFileMasks>
   </component>
 </application>
