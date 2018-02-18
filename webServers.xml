@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ec770c78-19aa-4211-a616-5ab18ac53c43" name="KintsugiClothing" url="http://new.kintsugiclothing.co.uk">
+        <fileTransfer host="kintsugiclothing.co.uk" port="22" rootFolder="/var/www/kintsugi-clothing/app" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
