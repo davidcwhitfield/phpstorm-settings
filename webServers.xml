@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="23922848-4d2f-405c-8291-80088ac8dbcf" name="One Question" url="http://onequestion.live">
+        <fileTransfer host="onequestion.live" port="18765" privateKey="$USER_HOME$/.ssh/id_rsa" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="18765" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
