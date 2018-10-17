@@ -33,6 +33,14 @@
           <option name="port" value="18765" />
         </fileTransfer>
       </webServer>
+      <webServer id="5ca4e1ad-dca6-4b3f-94fd-78ab0c550486" name="PSH Design" url="http://pshdesign.staging.curtis-whitfield.co.uk">
+        <fileTransfer host="pshdesign.staging.curtis-whitfield.co.uk" port="22" rootFolder="/var/www/pshdesign.co.uk" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
